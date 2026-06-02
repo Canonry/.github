@@ -1,4 +1,4 @@
-## AI NYC - Answer Engine Optimization
+## Canonry - Answer Engine Optimization
 
 The future of search is LLM powered.
 
