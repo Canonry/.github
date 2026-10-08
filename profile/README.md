@@ -1,4 +1,4 @@
-## Canonry - Answer Engine Optimization
+## Canonry
 
 The future of search is LLM powered.
 
